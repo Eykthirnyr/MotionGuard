@@ -52,7 +52,7 @@ MotionGuard is a Python application that allows users to select a specific area 
 
 ## Features
 
-```bash
+```
 Detects motion within a user-selected screen area.
 Adjustable sensitivity for motion detection via slider.
 Visual motion indicator with red for detected motion and green for no motion.
