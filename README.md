@@ -52,12 +52,19 @@ MotionGuard is a Python application that allows users to select a specific area 
 
 ## Features
 
-- Selectable screen area for motion detection
-- Adjustable sensitivity for detecting various levels of movement
-- Sound alerts with custom sound file selection and volume control
-- Email notifications with customizable SMTP settings
-- Real-time visual status of motion detection
-- Configurable settings saved to a local file and auto-loaded on startup
+Detects motion within a user-selected screen area.
+Adjustable sensitivity for motion detection via slider.
+Visual motion indicator with red for detected motion and green for no motion.
+Cooldown period for motion indicator with adjustable time (1-60 seconds).
+Plays a custom sound alert on motion detection with volume control.
+Sends email notifications when motion is detected using SMTP settings.
+Supports SSL (port 465) and TLS (port 587) email connections.
+Allows selection of a custom screen area using a screenshot-based interface.
+Start and stop buttons to control motion detection.
+Customizable SMTP settings for server, port, sender, and recipient email.
+Error logging for issues with motion detection, email, and sound.
+Fixed-size graphical user interface (570x800) using Tkinter.
+Test sound functionality to verify sound playback.
 
 ## Installation (Deprecated now automatic with subprocess)
 
