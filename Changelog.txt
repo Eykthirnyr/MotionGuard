@@ -1,0 +1,7 @@
+Changelog for MotionGuard_V04
+
+Fixed: Resolved an issue in the SMTP module preventing email notifications when the SMTP server used SSL.
+
+Enhanced: Added a verbose mode for the SMTP module in the command line, improving debugging visibility.
+
+New Feature: Introduced a user-controlled slider to customize the cooldown time, offering greater flexibility in motion detection.
