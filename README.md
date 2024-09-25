@@ -59,7 +59,7 @@ MotionGuard is a Python application that allows users to select a specific area 
 - Real-time visual status of motion detection
 - Configurable settings saved to a local file and auto-loaded on startup
 
-## Installation
+## Installation Deprecated (Now automatic with subprocess)
 
 To install the necessary dependencies, use the following commands:
 
