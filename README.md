@@ -7,7 +7,7 @@ Clément GHANEME - 2024/09
 
 MotionGuard is a Python application that allows users to select a specific area of their screen to monitor for motion. Once motion is detected, the app can trigger various actions such as playing a sound, sending email notifications, and displaying alerts in the user interface. With adjustable sensitivity, this app offers real-time motion detection and can be used for surveillance, activity monitoring, or other creative applications.
 
-## Screenshot - CSV Formatting
+## Screenshots - Application GUI
 
 ![GUI](Screenshot_1.png)
 
